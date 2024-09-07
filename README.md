@@ -1,5 +1,7 @@
 # JSON-power-DB-Student-enrollment-form A simple Student Enrollment form using JSONPowerDB
 
+![Screenshot 2024-09-08 005203](https://github.com/user-attachments/assets/6190f910-4080-47b3-9115-a7f39cb55089)
+
 This is a simple Student Enrollment form that takes user input from the html page and saves the data in JPDP and data can be updated if data exists in JPDP.
 
 ## Table of contents
